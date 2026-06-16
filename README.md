@@ -1,2 +1,0 @@
-# stockmarket
-Stock Market Project
